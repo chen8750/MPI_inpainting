@@ -83,4 +83,4 @@ Please contact _chenwang8750@gmails.com_  or open an issue for any questions or 
 Thanks! (●'◡'●)
 
 ## Acknowledgments
-Thanks the author of  [Pluralistic-Inpainting](https://github.com/lyndonzheng/Pluralistic-Inpainting) for making their excellent works publicly available. 
+Thanks the author of  [Pluralistic-Inpainting](https://github.com/lyndonzheng/Pluralistic-Inpainting) for their excellent work. 
