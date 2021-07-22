@@ -7,10 +7,10 @@
 This is an official python implementation of MPI-model. 
 
 ## Example results
-<img src="https://github.com/ChenWang8750/MPI-model/blob/main/imgs/sample.pdf" width="1000"/>
+<img src="https://github.com/ChenWang8750/MPI-model/blob/main/imgs/sample.png" width="1000"/>
 
 ## Architecutre
-<img src="https://github.com/ChenWang8750/MPI-model/blob/main/imgs/arc.pdf" width="1000"/> 
+<img src="https://github.com/ChenWang8750/MPI-model/blob/main/imgs/arc.png" width="1000"/> 
 
 # Getting started
 ## Installation
