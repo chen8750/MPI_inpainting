@@ -1,5 +1,5 @@
 # Image Inpainting Based on Multi-frequency Probabilistic Inference Model
-[MM 2020 Paper](https://doi.org/10.1145/3394171.3413891) | 
+[ACM MM 2020 oral Paper](https://doi.org/10.1145/3394171.3413891) | 
 [Poster](https://github.com/ChenWang8750/MPI-model/blob/main/imgs/MPI_Poster.pdf) |
 [BibTex](#citing)
 <br>
