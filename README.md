@@ -5,7 +5,7 @@
 [BibTex](#citing)
 <br>
 
-This is an official python implementation of MPI-model. The code will be release soon.
+This is an official python implementation of MPI-model. The code will be released soon.
 
 ## Example results
 <img src="https://github.com/ChenWang8750/MPI-model/blob/main/imgs/sample.png" width="1000"/>
